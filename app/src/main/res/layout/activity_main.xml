@@ -1,0 +1,639 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content" >
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		detail_elvin
+     *	@date 		Thursday 03rd of November 2022 12:15:39 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <ScrollView android:id="@+id/list_member"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+            <RelativeLayout android:id="@+id/page_list_member_ek1"
+                android:layout_marginTop="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View
+                    android:id="@+id/_bg__list_member_ek2"
+                    android:layout_width="414dp"
+                    android:layout_height="736dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/_bg__list_member_ek2_shape" />
+
+
+                <RelativeLayout android:id="@+id/page_top__menu_ek6"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginStart="23dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/vector"
+                        android:src="@drawable/vector"
+                        android:contentDescription="@string/vector"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_width="10.42dp"
+                        android:layout_height="20.83dp" />
+
+                    <TextView
+                        android:id="@+id/my_teams_ek6"
+                        android:layout_width="141dp"
+                        android:layout_height="45dp"
+                        android:layout_marginStart="135dp"
+                        android:layout_marginTop="0dp"
+                        android:fontFamily="@font/roboto_bold"
+                        android:text="@string/my_teams_ek6_string"
+                        android:textColor="@color/my_teams_color"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+
+                    <RelativeLayout android:id="@+id/menu_bars_ek6"
+                        android:layout_marginTop="9dp"
+                        android:layout_marginStart="332dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <View   android:id="@+id/line_1_ek6"
+                            android:background="@drawable/line_1_ek6_shape"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="35dp"
+                            android:layout_height="2.6dp" />
+
+                        <View   android:id="@+id/line_2_ek6"
+                            android:background="@drawable/line_2_ek6_shape"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_width="25dp"
+                            android:layout_height="2.6dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/background_ek6"
+                    android:layout_marginTop="47dp"
+                    android:layout_marginStart="-18dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <View   android:id="@+id/rectangle_1_ek6"
+                        android:background="@drawable/rectangle_1_ek6_shape"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="4dp"
+                        android:layout_width="414dp"
+                        android:layout_height="685dp" />
+
+                    <ImageView android:id="@+id/ellipse_11_ek6"
+                        android:src="@drawable/ellipse_11_ek6"
+                        android:contentDescription="@string/ellipse_11_ek6"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="83dp"
+                        android:layout_width="338dp"
+                        android:layout_height="264dp" />
+
+                    <ImageView
+                        android:id="@+id/ellipse_7_ek6"
+                        android:layout_width="134dp"
+                        android:layout_height="94dp"
+                        android:layout_marginStart="306dp"
+                        android:layout_marginTop="0dp"
+                        android:contentDescription="@string/ellipse_7_ek6"
+                        android:src="@drawable/ellipse_7_ek6"
+                        tools:ignore="ImageContrastCheck" />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/list"
+                    android:layout_marginTop="69dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+
+                    <RelativeLayout android:id="@+id/list_ek1"
+                        android:layout_marginTop="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+
+                        <RelativeLayout android:id="@+id/elvin"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <View   android:id="@+id/rectangle_2_ek6"
+                                android:background="@drawable/rectangle_2_ek6_shape"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="372dp"
+                                android:layout_height="125dp" />
+
+                            <ImageView
+                                android:id="@+id/rectangle_3"
+                                android:layout_width="364dp"
+                                android:layout_height="125dp"
+                                android:layout_marginStart="8dp"
+                                android:layout_marginTop="0dp"
+                                android:contentDescription="@string/rectangle_3"
+                                android:src="@drawable/rectangle_3"
+                                tools:ignore="ImageContrastCheck" />
+
+                            <TextView
+                                android:id="@+id/d_3_teknik_informatika_ek6"
+                                android:layout_width="157dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="45dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/d_3_teknik_informatika_ek6_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/universitas_sebelas_maret_ek6"
+                                android:layout_width="179dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="68dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/universitas_sebelas_maret_ek6_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/elvin_kukuh_n_ek1"
+                                android:layout_width="121dp"
+                                android:layout_height="30dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="16dp"
+                                android:fontFamily="@font/roboto_bold"
+                                android:text="@string/elvin_kukuh_n_ek1_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
+
+                            <ImageView
+                                android:id="@+id/whatsapp_image_2022_07_26_at_10_13_1_ek6"
+                                android:layout_width="97dp"
+                                android:layout_height="97dp"
+                                android:layout_marginStart="9dp"
+                                android:layout_marginTop="13dp"
+                                android:contentDescription="@string/whatsapp_image_2022_07_26_at_10_13_1_ek6"
+                                android:src="@drawable/whatsapp_image_2022_07_26_at_10_13_1_ek6"
+                                tools:ignore="ImageContrastCheck" />
+
+                            <TextView
+                                android:id="@+id/project_manager_ek6"
+                                android:layout_width="122dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="251dp"
+                                android:layout_marginTop="102dp"
+                                android:fontFamily="@font/roboto"
+                                android:text="@string/project_manager_ek6_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                        </RelativeLayout>
+
+
+                        <RelativeLayout android:id="@+id/irvan"
+                            android:layout_marginTop="280dp"
+                            android:layout_marginStart="3dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <View   android:id="@+id/rectangle_2_ek7"
+                                android:background="@drawable/rectangle_2_ek7_shape"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="372dp"
+                                android:layout_height="125dp" />
+
+                            <ImageView
+                                android:id="@+id/rectangle_3_ek1"
+                                android:layout_width="364dp"
+                                android:layout_height="125dp"
+                                android:layout_marginStart="8dp"
+                                android:layout_marginTop="0dp"
+                                android:contentDescription="@string/rectangle_3_ek1"
+                                android:src="@drawable/rectangle_3_ek1" />
+
+                            <TextView
+                                android:id="@+id/d_3_teknik_informatika_ek7"
+                                android:layout_width="157dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="45dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/d_3_teknik_informatika_ek7_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/universitas_sebelas_maret_ek7"
+                                android:layout_width="179dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="68dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/universitas_sebelas_maret_ek7_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/irvan_alvian_adi_n_ek1"
+                                android:layout_width="150dp"
+                                android:layout_height="30dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="16dp"
+                                android:fontFamily="@font/roboto_bold"
+                                android:text="@string/irvan_alvian_adi_n_ek1_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
+
+                            <ImageView android:id="@+id/whatsapp_image_2022_07_26_at_10_13_1_ek7"
+                                android:src="@drawable/whatsapp_image_2022_07_26_at_10_13_1_ek7"
+                                android:contentDescription="@string/whatsapp_image_2022_07_26_at_10_13_1_ek7"
+                                android:layout_marginStart="9dp"
+                                android:layout_marginTop="13dp"
+                                android:layout_width="97dp"
+                                android:layout_height="97dp" />
+
+                            <TextView
+                                android:id="@+id/project_manager_ek7"
+                                android:layout_width="122dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="251dp"
+                                android:layout_marginTop="102dp"
+                                android:fontFamily="@font/roboto"
+                                android:text="@string/project_manager_ek7_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                        </RelativeLayout>
+
+
+                        <RelativeLayout android:id="@+id/farhan"
+                            android:layout_marginTop="140dp"
+                            android:layout_marginStart="0dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <View   android:id="@+id/rectangle_2_ek8"
+                                android:background="@drawable/rectangle_2_ek8_shape"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="372dp"
+                                android:layout_height="125dp" />
+
+                            <ImageView android:id="@+id/rectangle_3_ek2"
+                                android:src="@drawable/rectangle_3_ek2"
+                                android:contentDescription="@string/rectangle_3_ek2"
+                                android:layout_marginStart="8dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="364dp"
+                                android:layout_height="125dp" />
+
+                            <TextView
+                                android:id="@+id/d_3_teknik_informatika_ek8"
+                                android:layout_width="157dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="45dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/d_3_teknik_informatika_ek8_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/universitas_sebelas_maret_ek8"
+                                android:layout_width="179dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="68dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/universitas_sebelas_maret_ek8_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/farhan_arif_s_ek1"
+                                android:layout_width="115dp"
+                                android:layout_height="30dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="16dp"
+                                android:fontFamily="@font/roboto_bold"
+                                android:text="@string/farhan_arif_s_ek1_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
+
+                            <ImageView android:id="@+id/whatsapp_image_2022_07_26_at_10_13_1_ek8"
+                                android:src="@drawable/whatsapp_image_2022_07_26_at_10_13_1_ek8"
+                                android:contentDescription="@string/whatsapp_image_2022_07_26_at_10_13_1_ek8"
+                                android:layout_marginStart="9dp"
+                                android:layout_marginTop="13dp"
+                                android:layout_width="97dp"
+                                android:layout_height="97dp" />
+
+                            <TextView
+                                android:id="@+id/project_manager_ek8"
+                                android:layout_width="122dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="251dp"
+                                android:layout_marginTop="102dp"
+                                android:fontFamily="@font/roboto"
+                                android:text="@string/project_manager_ek8_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                        </RelativeLayout>
+
+
+                        <RelativeLayout android:id="@+id/jose"
+                            android:layout_marginTop="420dp"
+                            android:layout_marginStart="3dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <View   android:id="@+id/rectangle_2_ek9"
+                                android:background="@drawable/rectangle_2_ek9_shape"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="372dp"
+                                android:layout_height="125dp" />
+
+                            <ImageView
+                                android:id="@+id/rectangle_3_ek3"
+                                android:layout_width="364dp"
+                                android:layout_height="125dp"
+                                android:layout_marginStart="8dp"
+                                android:layout_marginTop="0dp"
+                                android:contentDescription="@string/rectangle_3_ek3"
+                                android:src="@drawable/rectangle_3_ek3" />
+
+                            <TextView
+                                android:id="@+id/d_3_teknik_informatika_ek9"
+                                android:layout_width="157dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="45dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/d_3_teknik_informatika_ek9_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/universitas_sebelas_maret_ek9"
+                                android:layout_width="179dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="68dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/universitas_sebelas_maret_ek9_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/mohammad_jose_r_ek1"
+                                android:layout_width="160dp"
+                                android:layout_height="30dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="16dp"
+                                android:fontFamily="@font/roboto_bold"
+                                android:text="@string/mohammad_jose_r_ek1_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
+
+                            <ImageView android:id="@+id/whatsapp_image_2022_07_26_at_10_13_1_ek9"
+                                android:src="@drawable/whatsapp_image_2022_07_26_at_10_13_1_ek9"
+                                android:contentDescription="@string/whatsapp_image_2022_07_26_at_10_13_1_ek9"
+                                android:layout_marginStart="9dp"
+                                android:layout_marginTop="13dp"
+                                android:layout_width="97dp"
+                                android:layout_height="97dp" />
+
+                            <TextView
+                                android:id="@+id/project_manager_ek9"
+                                android:layout_width="122dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="251dp"
+                                android:layout_marginTop="102dp"
+                                android:fontFamily="@font/roboto"
+                                android:text="@string/project_manager_ek9_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                        </RelativeLayout>
+
+
+                        <RelativeLayout android:id="@+id/imam"
+                            android:layout_marginTop="700dp"
+                            android:layout_marginStart="1dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <View   android:id="@+id/rectangle_2_ek10"
+                                android:background="@drawable/rectangle_2_ek10_shape"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="372dp"
+                                android:layout_height="125dp" />
+
+                            <ImageView android:id="@+id/rectangle_3_ek4"
+                                android:src="@drawable/rectangle_3_ek4"
+                                android:contentDescription="@string/rectangle_3_ek4"
+                                android:layout_marginStart="8dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="364dp"
+                                android:layout_height="125dp" />
+
+                            <TextView
+                                android:id="@+id/d_3_teknik_informatika_ek10"
+                                android:layout_width="157dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="45dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/d_3_teknik_informatika_ek10_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/universitas_sebelas_maret_ek10"
+                                android:layout_width="179dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="68dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/universitas_sebelas_maret_ek10_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/imam_abdilah_p_ek1"
+                                android:layout_width="136dp"
+                                android:layout_height="30dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="16dp"
+                                android:fontFamily="@font/roboto_bold"
+                                android:text="@string/imam_abdilah_p_ek1_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
+
+                            <ImageView
+                                android:id="@+id/whatsapp_image_2022_07_26_at_10_13_1_ek10"
+                                android:layout_width="97dp"
+                                android:layout_height="97dp"
+                                android:layout_marginStart="9dp"
+                                android:layout_marginTop="13dp"
+                                android:contentDescription="@string/whatsapp_image_2022_07_26_at_10_13_1_ek10"
+                                android:src="@drawable/whatsapp_image_2022_07_26_at_10_13_1_ek10"
+                                tools:ignore="ImageContrastCheck" />
+
+                            <TextView
+                                android:id="@+id/project_manager_ek10"
+                                android:layout_width="122dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="251dp"
+                                android:layout_marginTop="102dp"
+                                android:fontFamily="@font/roboto"
+                                android:text="@string/project_manager_ek10_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                        </RelativeLayout>
+
+
+                        <RelativeLayout android:id="@+id/faris"
+                            android:layout_marginTop="560dp"
+                            android:layout_marginStart="1dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            >
+
+                            <View   android:id="@+id/rectangle_2_ek11"
+                                android:background="@drawable/rectangle_2_ek11_shape"
+                                android:layout_marginStart="0dp"
+                                android:layout_marginTop="0dp"
+                                android:layout_width="372dp"
+                                android:layout_height="125dp" />
+
+                            <ImageView
+                                android:id="@+id/rectangle_3_ek5"
+                                android:layout_width="364dp"
+                                android:layout_height="125dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_marginStart="8dp"
+                                android:layout_marginTop="0dp"
+                                android:contentDescription="@string/rectangle_3_ek5"
+                                android:src="@drawable/rectangle_3_ek5"
+                                tools:ignore="ImageContrastCheck" />
+
+                            <TextView
+                                android:id="@+id/d_3_teknik_informatika_ek11"
+                                android:layout_width="157dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="45dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/d_3_teknik_informatika_ek11_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/universitas_sebelas_maret_ek11"
+                                android:layout_width="179dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="68dp"
+                                android:fontFamily="@font/roboto_light"
+                                android:text="@string/universitas_sebelas_maret_ek11_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/muhamad_faris_rafi"
+                                android:layout_width="165dp"
+                                android:layout_height="30dp"
+                                android:layout_marginStart="121dp"
+                                android:layout_marginTop="16dp"
+                                android:fontFamily="@font/roboto_bold"
+                                android:text="@string/muhamad_faris_rafi_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
+
+                            <ImageView android:id="@+id/whatsapp_image_2022_07_26_at_10_13_1_ek11"
+                                android:src="@drawable/whatsapp_image_2022_07_26_at_10_13_1_ek11"
+                                android:contentDescription="@string/whatsapp_image_2022_07_26_at_10_13_1_ek11"
+                                android:layout_marginStart="9dp"
+                                android:layout_marginTop="13dp"
+                                android:layout_width="97dp"
+                                android:layout_height="97dp" />
+
+                            <TextView
+                                android:id="@+id/project_manager_ek11"
+                                android:layout_width="122dp"
+                                android:layout_height="26dp"
+                                android:layout_marginStart="251dp"
+                                android:layout_marginTop="102dp"
+                                android:fontFamily="@font/roboto"
+                                android:text="@string/project_manager_ek11_string"
+                                android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                                android:textSize="14sp" />
+
+                        </RelativeLayout>
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </ScrollView>
+</HorizontalScrollView>
