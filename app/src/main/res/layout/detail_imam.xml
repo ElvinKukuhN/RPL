@@ -277,12 +277,12 @@
 
                     <TextView
                         android:id="@+id/project_manager"
-                        android:layout_width="122dp"
-                        android:layout_height="26dp"
+                        android:layout_width="206dp"
+                        android:layout_height="wrap_content"
                         android:layout_marginStart="6dp"
                         android:layout_marginTop="119dp"
                         android:fontFamily="@font/roboto"
-                        android:text="@string/project_manager_string"
+                        android:text="@string/frontend_developer"
                         android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
                         android:textSize="14sp" />
 
