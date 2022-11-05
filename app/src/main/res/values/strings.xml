@@ -37,7 +37,7 @@
     <string name="project_manager_ek4_string">Project Manager</string>
     <string name="description_ek4_string">Description</string>
     <string name="my_teams_ek5_string">My Teams</string>
-    <string name="age___19_address___sapen__mojolaban__sukoharjo_hardskill___java__php__laravel__python__html_softskill___public_speaking__teamwork__time_management_string">Age          : 19Address  : Sapen, Mojolaban, SukoharjoHardskill : Java, PHP, Laravel, Python, HTMLSoftskill   : Public Speaking, Teamwork, Time  Management</string>
+    <string name="age___19_address___sapen__mojolaban__sukoharjo_hardskill___java__php__laravel__python__html_softskill___public_speaking__teamwork__time_management_string">Age          : 20Address  : Sapen, Mojolaban, SukoharjoHardskill : Java, PHP, Laravel, Python, HTMLSoftskill   : Public Speaking, Teamwork, Time  Management</string>
     <string name="d_3_teknik_informatika_ek5_string">D-3 Teknik Informatika</string>
     <string name="universitas_sebelas_maret_ek5_string">Universitas Sebelas Maret</string>
     <string name="imam_abdilah_p_string">Imam Abdilah P</string>
@@ -91,11 +91,16 @@
     <string name="ellipse_7">ellipse_7</string>
     <string name="ellipse_11">ellipse_11</string>
     <string name="_19">19</string>
+    <string name="_20">20</string>
+    <string name="frontend_developer">Frontend Developer</string>
+    <string name="backend_developer">Backend Developer</string>
     <string name="gulon_jebres_surakarta">Gulon, Jebres, Surakarta</string>
     <string name="java_php_laravel">Java, PHP, Laravel</string>
     <string name="public_speaking_teamwork_time_management">Public Speaking, Teamwork, Time Management</string>
     <string name="whatsapp_image_2022_07_26_at_10_13_1">whatsapp_image_2022_07_26_at_10_13_1</string>
     <string name="php_java_python_html_js">PHP, Java, Python, HTML, JS</string>
     <string name="sapen_mojolaban_sukoharjo">Sapen, Mojolaban, Sukoharjo</string>
-    <string name="frontend_developer">Frontend Developer</string>
+    <string name="tulungagung">Boyolangu, Tulungagung, Tulungagung</string>
+    <string name="hardskill_jose">Python, PHP, Laravel</string>
+    <string name="jose">jose</string>
 </resources>
