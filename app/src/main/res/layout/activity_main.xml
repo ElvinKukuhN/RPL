@@ -106,20 +106,22 @@
                     android:layout_height="wrap_content"
                     >
 
-                    <View   android:id="@+id/rectangle_1_ek6"
-                        android:background="@drawable/rectangle_1_ek6_shape"
+                    <View
+                        android:id="@+id/rectangle_1_ek6"
+                        android:layout_width="414dp"
+                        android:layout_height="685dp"
                         android:layout_marginStart="18dp"
                         android:layout_marginTop="4dp"
-                        android:layout_width="414dp"
-                        android:layout_height="685dp" />
+                        android:background="@drawable/rectangle_1_ek6_shape" />
 
-                    <ImageView android:id="@+id/ellipse_11_ek6"
-                        android:src="@drawable/ellipse_11_ek6"
-                        android:contentDescription="@string/ellipse_11_ek6"
+                    <ImageView
+                        android:id="@+id/ellipse_11_ek6"
+                        android:layout_width="338dp"
+                        android:layout_height="264dp"
                         android:layout_marginStart="0dp"
                         android:layout_marginTop="83dp"
-                        android:layout_width="338dp"
-                        android:layout_height="264dp" />
+                        android:contentDescription="@string/ellipse_11_ek6"
+                        android:src="@drawable/ellipse_11_ek6" />
 
                     <ImageView
                         android:id="@+id/ellipse_7_ek6"
@@ -555,17 +557,18 @@
                             android:layout_height="wrap_content"
                             >
 
-                            <View   android:id="@+id/rectangle_2_ek11"
-                                android:background="@drawable/rectangle_2_ek11_shape"
+                            <View
+                                android:id="@+id/rectangle_2_ek11"
+                                android:layout_width="372dp"
+                                android:layout_height="125dp"
                                 android:layout_marginStart="0dp"
                                 android:layout_marginTop="0dp"
-                                android:layout_width="372dp"
-                                android:layout_height="125dp" />
+                                android:background="@drawable/rectangle_2_ek11_shape" />
 
                             <ImageView
                                 android:id="@+id/rectangle_3_ek5"
-                                android:layout_width="364dp"
-                                android:layout_height="125dp"
+                                android:layout_width="365dp"
+                                android:layout_height="107dp"
                                 android:layout_alignParentTop="true"
                                 android:layout_marginStart="8dp"
                                 android:layout_marginTop="0dp"
@@ -620,7 +623,7 @@
                                 android:layout_width="122dp"
                                 android:layout_height="26dp"
                                 android:layout_marginStart="251dp"
-                                android:layout_marginTop="102dp"
+                                android:layout_marginTop="80dp"
                                 android:fontFamily="@font/roboto"
                                 android:text="@string/project_manager_ek11_string"
                                 android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
