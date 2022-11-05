@@ -102,12 +102,13 @@
                     android:layout_height="wrap_content"
                     >
 
-                    <View   android:id="@+id/rectangle_1"
-                        android:background="@drawable/rectangle_1_shape"
+                    <View
+                        android:id="@+id/rectangle_1"
+                        android:layout_width="414dp"
+                        android:layout_height="685dp"
                         android:layout_marginStart="18dp"
                         android:layout_marginTop="4dp"
-                        android:layout_width="414dp"
-                        android:layout_height="685dp" />
+                        android:background="@drawable/rectangle_1_shape" />
 
                     <ImageView android:id="@+id/ellipse_11"
                         android:src="@drawable/ellipse_11"
