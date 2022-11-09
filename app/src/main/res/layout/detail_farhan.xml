@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content" >
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	
+     *	@file 		detail_elvin
+     *	@date 		Thursday 03rd of November 2022 12:15:39 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <ScrollView android:id="@+id/detail_elvin"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+
+
+            <RelativeLayout android:id="@+id/page_detail_elvin_ek1"
+                android:layout_marginTop="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/_bg__detail_elvin_ek2"
+                    android:background="@drawable/_bg__detail_elvin_ek2_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="414dp"
+                    android:layout_height="736dp" />
+
+
+                <RelativeLayout android:id="@+id/page_top__menu"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="23dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/_back"
+                        android:src="@drawable/_back"
+                        android:contentDescription="@string/back"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="3dp"
+                        android:layout_width="10.42dp"
+                        android:layout_height="20.83dp" />
+
+                    <TextView
+                        android:id="@+id/my_teams"
+                        android:layout_width="141dp"
+                        android:layout_height="45dp"
+                        android:layout_marginStart="135dp"
+                        android:layout_marginTop="0dp"
+                        android:fontFamily="@font/roboto_bold"
+                        android:text="@string/my_teams_string"
+                        android:textColor="@color/my_teams_color"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+
+                    <RelativeLayout android:id="@+id/menu_bars"
+                        android:layout_marginTop="9dp"
+                        android:layout_marginStart="332dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <View   android:id="@+id/line_1"
+                            android:background="@drawable/line_1_shape"
+                            android:layout_marginStart="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_width="35dp"
+                            android:layout_height="2.6dp" />
+
+                        <View   android:id="@+id/line_2"
+                            android:background="@drawable/line_2_shape"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_width="25dp"
+                            android:layout_height="2.6dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/background"
+                    android:layout_marginTop="47dp"
+                    android:layout_marginStart="-18dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <View
+                        android:id="@+id/rectangle_1"
+                        android:layout_width="414dp"
+                        android:layout_height="685dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginTop="4dp"
+                        android:background="@drawable/rectangle_1_shape" />
+
+                    <ImageView android:id="@+id/ellipse_11"
+                        android:src="@drawable/ellipse_11"
+                        android:contentDescription="@string/ellipse_11"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="83dp"
+                        android:layout_width="338dp"
+                        android:layout_height="264dp" />
+
+                    <ImageView android:id="@+id/ellipse_7"
+                        android:src="@drawable/ellipse_7"
+                        android:contentDescription="@string/ellipse_7"
+                        android:layout_marginStart="306dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="134dp"
+                        android:layout_height="94dp" />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/detail"
+                    android:layout_marginTop="79dp"
+                    android:layout_marginStart="23dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <View
+                        android:id="@+id/rectangle_2"
+                        android:layout_width="372dp"
+                        android:layout_height="493dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:background="@drawable/rectangle_2_shape" />
+
+                    <TextView
+                        android:id="@+id/Age_Elvin"
+                        android:layout_width="157dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="189dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/age"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/Address_Elvin"
+                        android:layout_width="157dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="210dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/address"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/Hardskill_Elvin"
+                        android:layout_width="157dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="230dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/hardskill"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/Softskill_Elvin"
+                        android:layout_width="157dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="250dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/softskill"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/Agee_Elvin"
+                        android:layout_width="157dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="189dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/_19"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/Addresss_Elvin"
+                        android:layout_width="157dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="210dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/AlamatFarhan"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/Hardskilll_Elvin"
+                        android:layout_width="157dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="230dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/hardskill_farhan"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/Softskilll_Elvin"
+                        android:layout_width="286dp"
+                        android:layout_height="38dp"
+                        android:layout_marginStart="80dp"
+                        android:layout_marginTop="250dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/public_speaking_teamwork_time_management"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+
+                    <TextView
+                        android:id="@+id/d_3_teknik_informatika"
+                        android:layout_width="157dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="121dp"
+                        android:layout_marginTop="45dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/d_3_teknik_informatika_string"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/universitas_sebelas_maret"
+                        android:layout_width="179dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="121dp"
+                        android:layout_marginTop="68dp"
+                        android:fontFamily="@font/roboto_light"
+                        android:text="@string/universitas_sebelas_maret_string"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/elvin_kukuh_n"
+                        android:layout_width="160dp"
+                        android:layout_height="30dp"
+                        android:layout_marginStart="121dp"
+                        android:layout_marginTop="16dp"
+                        android:fontFamily="@font/roboto_bold"
+                        android:text="@string/Farhan"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/whatsapp_image_2022_07_26_at_10_13_1"
+                        android:layout_width="97dp"
+                        android:layout_height="97dp"
+                        android:layout_marginStart="9dp"
+                        android:layout_marginTop="13dp"
+                        android:contentDescription="@string/whatsapp_image_2022_07_26_at_10_13_1"
+                        android:src="@drawable/farhan" />
+
+                    <TextView
+                        android:id="@+id/project_manager"
+                        android:layout_width="122dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="6dp"
+                        android:layout_marginTop="119dp"
+                        android:fontFamily="@font/roboto"
+                        android:text="@string/project_manager_string"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/description"
+                        android:layout_width="91dp"
+                        android:layout_height="26dp"
+                        android:layout_marginStart="5dp"
+                        android:layout_marginTop="163dp"
+                        android:fontFamily="@font/roboto_medium"
+                        android:text="@string/description_string"
+                        android:textColor="@color/age___19_address___gulon__jebres__surakarta_hardskill___java__php__laravel_softskill___public_speaking__teamwork__time_management_color"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+</HorizontalScrollView>
